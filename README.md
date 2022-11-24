@@ -1,2 +1,2 @@
 # application-compta-js
-Rendu finale pour le cours de javascript de ma première année. Note du module: 22/20
+J'ai fait cette application pour le rendu final du cours de javascript de ma première année. Il fallait reproduire une interface imposée. Il y a deux inputs qui prennent un montant et une description, un bouton pour choisir si il s'agit d'une recette ou d'une dépense. Enfin toutes les transactions devait être affichées avec le total de recettes et des dépenses ainsi que la différence entre les deux. Note : 22/20 (grâce aux bonus)    
